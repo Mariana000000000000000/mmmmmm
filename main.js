@@ -1,6 +1,4 @@
-function criaCartao('Filosofia',
-    'Qual é a frase mais famosa de aristóteles?',
-    'O sábio nunca diz tudo o que pensa, mas pensa tudo o que diz',){
+function criaCartao(categoria,pergunta,resposta){
     let container = document.getElementById('container');
     let cartao= document.createelement ('article')
     cartao.className='cartao';
