@@ -28,7 +28,7 @@ criaCartao (
     'Como transformar graus em radianos?',
     'Basta multiplicar o grau com o pi/180º',
     )
-    criaCartao(,
+    criaCartao(
     'Filosofia',
     'Qual é a frase mais famosa de aristóteles?',
     'O sábio nunca diz tudo o que pensa, mas pensa tudo o que diz',

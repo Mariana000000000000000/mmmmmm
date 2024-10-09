@@ -1,7 +1,7 @@
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container');
     let cartao = document.createelement('article')
-    cartao.className = 'cartao';
+    cartao.className= 'cartao';
     cartao.innerHTML = `<div class="conteuo-cartao">
     <h3>categoria</h3>
     <div class="pergunta-cartao">
