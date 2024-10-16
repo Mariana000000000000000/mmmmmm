@@ -52,3 +52,9 @@ footer {
     font-size: 1vw;
 
 }
+
+    .conteudo-cartao p{
+        margin-top: 4rem;
+        font-size: 1.4rem;
+        padding: 2rem;
+    }
