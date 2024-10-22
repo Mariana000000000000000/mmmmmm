@@ -38,3 +38,9 @@ head a {
         gap: 3rem;
         padding: 20px;
     }
+
+    .conteudo-cartao {
+        padding: 40px;
+        background-color: var(--cartao-frente);
+        box-shadow: 5px 5px 25px 3px var(--preto);
+    }
