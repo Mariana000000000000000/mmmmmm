@@ -1,17 +1,17 @@
 criaCartao (
     'Biologia',
     'Qual é o nome da estrutura que é o órgão sensorial termorreceptor presente na família das serpentes?',
-    'Fosseta loreal'
+    'Fosseta loreal',
     )
     criaCartao(
     'Biologia',
     'O GAFANHOTO É VERDE PORQUE VIVE NA GRAMA  Qual evolucionista está relacionadoa essa afirmação?',
-    'Lamarck'
+    'Lamarck',
     )
     criaCartao(
     'Biologia',
     'Qual é o Filo das flores? Exemplo: Margarida',
-    'Angiosperma'
+    'Angiosperma',
     )
     criaCartao(
     'Matemática',
